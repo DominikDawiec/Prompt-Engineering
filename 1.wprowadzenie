@@ -1,0 +1,30 @@
+## Wprowadzenie do Prompt Engineeringu
+
+### Czym jest Prompt Engineering?
+
+Prompt engineering to nowa dziedzina zajmująca się tworzeniem i optymalizowaniem zapytań (promptów) w celu efektywnego wykorzystania dużych modeli językowych (LLM, Large Language Models) takich jak ChatGPT, Claude czy Gemini. 
+
+### Jak działa Prompt?
+
+Prompt to instrukcja lub pytanie dostarczone modelowi w celu uzyskania konkretnej odpowiedzi. Skuteczny prompt powinien zawierać:
+1. **Instrukcje** – jasne wskazanie zadania do wykonania.
+2. **Kontekst** – dodatkowe informacje, które pomagają ukierunkować odpowiedź modelu.
+3. **Dane wejściowe** – tekst lub pytanie, na które chcemy uzyskać odpowiedź.
+4. **Przykład odpowiedzi** – format lub rodzaj oczekiwanej odpowiedzi.
+
+### Przykład podstawowego promptu:
+**Prompt:**  
+„Niebo jest…”  
+
+**Odpowiedź modelu:**  
+„niebieskie.”
+
+### Typy Promptów
+1. **Zero-shot prompting** – model odpowiada bez podanych przykładów.
+2. **Few-shot prompting** – model opowiada na podsawie kilku przykładów.
+3. **Chain-of-Thought (CoT) prompting** – model jest proszony o wyjaśnienie swojego rozumowania krok po kroku.
+
+### Porady dla początkujących
+- **Zaczynaj prosto**: Eksperymentuj z prostymi promptami i stopniowo je rozwijaj.
+- **Kontekst jest kluczowy**: Prompty zawierające szerszy kontekst dają lepsze rezultaty.
+- **Iteracja**: Proces tworzenia skutecznych promptów częstu wymaga wielu testów i modyfikacji.
